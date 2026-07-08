@@ -71,6 +71,7 @@
 | ------- |
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Animesh197/leetcode_solutions/tree/master/0498-diagonal-traverse) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
