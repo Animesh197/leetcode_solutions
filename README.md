@@ -8,6 +8,7 @@
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/Animesh197/leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -27,6 +28,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Animesh197/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Animesh197/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Animesh197/leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -58,6 +61,7 @@
 | ------- |
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
+| [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Animesh197/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
