@@ -16,6 +16,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Animesh197/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
@@ -64,6 +65,7 @@
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Animesh197/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -134,6 +136,7 @@
 | ------- |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
@@ -157,4 +160,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Animesh197/leetcode_solutions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
