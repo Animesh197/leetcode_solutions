@@ -12,6 +12,7 @@
 | [0498-diagonal-traverse](https://github.com/Animesh197/leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [0835-image-overlap](https://github.com/Animesh197/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Animesh197/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [1052-grumpy-bookstore-owner](https://github.com/Animesh197/leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
