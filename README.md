@@ -13,6 +13,7 @@
 | [0498-diagonal-traverse](https://github.com/Animesh197/leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [0835-image-overlap](https://github.com/Animesh197/leetcode_solutions/tree/master/0835-image-overlap) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Animesh197/leetcode_solutions/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Animesh197/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
