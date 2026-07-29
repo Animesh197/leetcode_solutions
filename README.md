@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
 | [0228-summary-ranges](https://github.com/Animesh197/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -147,6 +148,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Animesh197/leetcode_solutions/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
