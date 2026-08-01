@@ -20,6 +20,7 @@
 | [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [0835-image-overlap](https://github.com/Animesh197/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Animesh197/leetcode_solutions/tree/master/0846-hand-of-straights) |
+| [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
 | [1052-grumpy-bookstore-owner](https://github.com/Animesh197/leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -265,6 +266,7 @@
 ## Counting
 |  |
 | ------- |
+| [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -313,4 +315,12 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Animesh197/leetcode_solutions/tree/master/0486-predict-the-winner) |
+## Design
+|  |
+| ------- |
+| [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
 <!---LeetCode Topics End-->
