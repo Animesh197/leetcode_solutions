@@ -34,6 +34,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/Animesh197/leetcode_solutions/tree/master/1686-stone-game-vi) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Animesh197/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Animesh197/leetcode_solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Animesh197/leetcode_solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -145,6 +146,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Animesh197/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Animesh197/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -327,6 +329,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Animesh197/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Memoization
 |  |
@@ -389,4 +392,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Animesh197/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
