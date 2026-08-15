@@ -18,6 +18,7 @@
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/Animesh197/leetcode_solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0667-beautiful-arrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/Animesh197/leetcode_solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
