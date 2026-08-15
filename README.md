@@ -9,6 +9,7 @@
 | [0228-summary-ranges](https://github.com/Animesh197/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0413-arithmetic-slices](https://github.com/Animesh197/leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Animesh197/leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -109,6 +110,7 @@
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0413-arithmetic-slices](https://github.com/Animesh197/leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Animesh197/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
@@ -322,6 +324,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Animesh197/leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [1052-grumpy-bookstore-owner](https://github.com/Animesh197/leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Animesh197/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Animesh197/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
