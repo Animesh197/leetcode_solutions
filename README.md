@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
 | [0228-summary-ranges](https://github.com/Animesh197/leetcode_solutions/tree/master/0228-summary-ranges) |
@@ -151,6 +152,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -181,6 +183,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
@@ -197,6 +200,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Animesh197/leetcode_solutions/tree/master/0148-sort-list) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
