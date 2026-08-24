@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
 | [0228-summary-ranges](https://github.com/Animesh197/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -249,6 +251,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Animesh197/leetcode_solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -409,11 +412,13 @@
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Recursion
