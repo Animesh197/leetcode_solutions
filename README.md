@@ -21,6 +21,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/Animesh197/leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
@@ -171,6 +172,7 @@
 | [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
@@ -209,6 +211,7 @@
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0491-non-decreasing-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Animesh197/leetcode_solutions/tree/master/0846-hand-of-straights) |
@@ -232,6 +235,7 @@
 | [0056-merge-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Animesh197/leetcode_solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,6 +262,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Animesh197/leetcode_solutions/tree/master/0148-sort-list) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Animesh197/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
