@@ -14,6 +14,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/0377-combination-sum-iv) |
+| [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
 | [0413-arithmetic-slices](https://github.com/Animesh197/leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
@@ -280,6 +281,7 @@
 ## Math
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Animesh197/leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -456,6 +458,7 @@
 ## Design
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
 | [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
 ## Iterator
 |  |
@@ -502,4 +505,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
