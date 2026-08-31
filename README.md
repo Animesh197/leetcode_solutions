@@ -10,6 +10,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/Animesh197/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Animesh197/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Animesh197/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh197/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Animesh197/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/Animesh197/leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
@@ -135,6 +137,7 @@
 | [0045-jump-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
+| [0221-maximal-square](https://github.com/Animesh197/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/0377-combination-sum-iv) |
