@@ -13,6 +13,7 @@
 | [0221-maximal-square](https://github.com/Animesh197/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Animesh197/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0313-super-ugly-number](https://github.com/Animesh197/leetcode_solutions/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0330-patching-array) |
@@ -145,6 +146,7 @@
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/Animesh197/leetcode_solutions/tree/master/0221-maximal-square) |
+| [0313-super-ugly-number](https://github.com/Animesh197/leetcode_solutions/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/0377-combination-sum-iv) |
@@ -306,6 +308,7 @@
 ## Math
 |  |
 | ------- |
+| [0313-super-ugly-number](https://github.com/Animesh197/leetcode_solutions/tree/master/0313-super-ugly-number) |
 | [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
