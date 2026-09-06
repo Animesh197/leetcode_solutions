@@ -51,6 +51,7 @@
 | [1288-remove-covered-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/Animesh197/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -203,6 +204,7 @@
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0937-reorder-data-in-log-files](https://github.com/Animesh197/leetcode_solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [1927-sum-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Animesh197/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Animesh197/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -245,6 +247,7 @@
 | [0846-hand-of-straights](https://github.com/Animesh197/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1331-rank-transform-of-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/Animesh197/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Animesh197/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -276,6 +279,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/Animesh197/leetcode_solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1288-remove-covered-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/Animesh197/leetcode_solutions/tree/master/1686-stone-game-vi) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Animesh197/leetcode_solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -436,6 +440,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Animesh197/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
+| [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [2029-stone-game-ix](https://github.com/Animesh197/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
