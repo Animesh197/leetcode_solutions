@@ -588,4 +588,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Animesh197/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Animesh197/leetcode_solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
