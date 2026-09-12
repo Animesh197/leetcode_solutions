@@ -171,6 +171,7 @@
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
@@ -241,6 +242,7 @@
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Animesh197/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Animesh197/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -521,6 +523,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -528,6 +531,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -600,4 +604,8 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Animesh197/leetcode_solutions/tree/master/0183-customers-who-never-order) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
