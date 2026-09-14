@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Animesh197/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/0377-combination-sum-iv) |
 | [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Animesh197/leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh197/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh197/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Animesh197/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Animesh197/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Animesh197/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Animesh197/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -196,6 +200,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Animesh197/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -210,6 +215,7 @@
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
@@ -240,6 +246,7 @@
 | [0200-number-of-islands](https://github.com/Animesh197/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -613,4 +620,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Animesh197/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
