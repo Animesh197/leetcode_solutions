@@ -81,6 +81,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Animesh197/leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Animesh197/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -157,6 +158,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Animesh197/leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Animesh197/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Animesh197/leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Animesh197/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
