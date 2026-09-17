@@ -121,6 +121,7 @@
 | [0279-perfect-squares](https://github.com/Animesh197/leetcode_solutions/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -232,6 +233,7 @@
 | [0115-distinct-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
@@ -264,6 +266,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -554,6 +557,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -562,6 +566,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -574,6 +579,7 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
 ## Iterator
 |  |
@@ -668,4 +674,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Animesh197/leetcode_solutions/tree/master/0279-perfect-squares) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
