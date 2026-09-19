@@ -202,6 +202,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Animesh197/leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Animesh197/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -258,6 +259,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Animesh197/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -366,6 +368,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Animesh197/leetcode_solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Animesh197/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Animesh197/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Animesh197/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -485,6 +488,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Animesh197/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Animesh197/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
