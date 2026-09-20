@@ -80,6 +80,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Animesh197/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -110,6 +111,7 @@
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Animesh197/leetcode_solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Animesh197/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -198,6 +200,7 @@
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1824-minimum-sideway-jumps](https://github.com/Animesh197/leetcode_solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1872-stone-game-viii](https://github.com/Animesh197/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Animesh197/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Animesh197/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -310,6 +313,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Animesh197/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Animesh197/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -348,6 +352,7 @@
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Animesh197/leetcode_solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -368,6 +373,7 @@
 | [0870-advantage-shuffle](https://github.com/Animesh197/leetcode_solutions/tree/master/0870-advantage-shuffle) |
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Animesh197/leetcode_solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Animesh197/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -520,6 +526,7 @@
 | [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [2029-stone-game-ix](https://github.com/Animesh197/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Animesh197/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
