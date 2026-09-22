@@ -417,6 +417,7 @@
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Animesh197/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Animesh197/leetcode_solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/Animesh197/leetcode_solutions/tree/master/1686-stone-game-vi) |
@@ -486,6 +487,7 @@
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Animesh197/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Animesh197/leetcode_solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Animesh197/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1686-stone-game-vi](https://github.com/Animesh197/leetcode_solutions/tree/master/1686-stone-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/Animesh197/leetcode_solutions/tree/master/1824-minimum-sideway-jumps) |
