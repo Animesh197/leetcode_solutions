@@ -135,6 +135,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Animesh197/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Animesh197/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -260,6 +261,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/Animesh197/leetcode_solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Animesh197/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1927-sum-game) |
@@ -316,6 +318,7 @@
 | [0846-hand-of-straights](https://github.com/Animesh197/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0939-minimum-area-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
@@ -354,6 +357,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0937-reorder-data-in-log-files](https://github.com/Animesh197/leetcode_solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0939-minimum-area-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Animesh197/leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1288-remove-covered-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -572,6 +576,7 @@
 | [0503-next-greater-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Animesh197/leetcode_solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -643,6 +648,7 @@
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
