@@ -419,6 +419,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Animesh197/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/Animesh197/leetcode_solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Animesh197/leetcode_solutions/tree/master/0313-super-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Animesh197/leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
