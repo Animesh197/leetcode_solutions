@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
+| [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/Animesh197/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Animesh197/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Animesh197/leetcode_solutions/tree/master/0228-summary-ranges) |
@@ -188,6 +189,7 @@
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0120-triangle) |
+| [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/Animesh197/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Animesh197/leetcode_solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Animesh197/leetcode_solutions/tree/master/0313-super-ugly-number) |
@@ -251,6 +253,7 @@
 | [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Animesh197/leetcode_solutions/tree/master/0443-string-compression) |
@@ -307,6 +310,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Animesh197/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Animesh197/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -601,6 +605,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Counting Sort
 |  |
@@ -657,6 +662,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
@@ -739,6 +745,7 @@
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0648-replace-words](https://github.com/Animesh197/leetcode_solutions/tree/master/0648-replace-words) |
 ## Knapsack Problem
 |  |
