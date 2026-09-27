@@ -265,6 +265,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Animesh197/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Animesh197/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -584,6 +585,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Animesh197/leetcode_solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -754,4 +756,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
