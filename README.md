@@ -265,6 +265,7 @@
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Animesh197/leetcode_solutions/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0482-license-key-formatting](https://github.com/Animesh197/leetcode_solutions/tree/master/0482-license-key-formatting) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
