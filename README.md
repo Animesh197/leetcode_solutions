@@ -137,6 +137,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh197/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Animesh197/leetcode_solutions/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -261,6 +262,7 @@
 | [0097-interleaving-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Animesh197/leetcode_solutions/tree/master/0443-string-compression) |
@@ -680,6 +682,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
