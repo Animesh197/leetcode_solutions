@@ -36,6 +36,7 @@
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/Animesh197/leetcode_solutions/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Animesh197/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -207,6 +208,7 @@
 | [0486-predict-the-winner](https://github.com/Animesh197/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0553-optimal-division) |
 | [0877-stone-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
@@ -450,6 +452,7 @@
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Animesh197/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
