@@ -272,6 +272,7 @@
 | [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0383-ransom-note](https://github.com/Animesh197/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Animesh197/leetcode_solutions/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -339,6 +340,7 @@
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Animesh197/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Animesh197/leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Animesh197/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0447-number-of-boomerangs](https://github.com/Animesh197/leetcode_solutions/tree/master/0447-number-of-boomerangs) |
 | [0491-non-decreasing-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -596,6 +598,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Animesh197/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Animesh197/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
