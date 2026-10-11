@@ -41,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Animesh197/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Animesh197/leetcode_solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 | [0648-replace-words](https://github.com/Animesh197/leetcode_solutions/tree/master/0648-replace-words) |
 | [0667-beautiful-arrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
@@ -215,6 +216,7 @@
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0553-optimal-division) |
+| [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 | [0877-stone-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
@@ -511,6 +513,7 @@
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 | [1386-cinema-seat-allocation](https://github.com/Animesh197/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Animesh197/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -650,6 +653,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -711,6 +715,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/Animesh197/leetcode_solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -745,6 +750,7 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -799,10 +805,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Animesh197/leetcode_solutions/tree/master/0279-perfect-squares) |
+| [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Animesh197/leetcode_solutions/tree/master/0279-perfect-squares) |
+| [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 ## Binary Search Tree
 |  |
 | ------- |
