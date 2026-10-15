@@ -44,6 +44,7 @@
 | [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 | [0648-replace-words](https://github.com/Animesh197/leetcode_solutions/tree/master/0648-replace-words) |
 | [0667-beautiful-arrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0667-beautiful-arrangement-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
@@ -126,6 +127,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Animesh197/leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -220,6 +222,7 @@
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0553-optimal-division) |
 | [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
@@ -630,6 +633,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Animesh197/leetcode_solutions/tree/master/0413-arithmetic-slices) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1052-grumpy-bookstore-owner](https://github.com/Animesh197/leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Animesh197/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -856,4 +860,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Animesh197/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
