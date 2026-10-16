@@ -48,6 +48,7 @@
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
+| [0806-number-of-lines-to-write-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0835-image-overlap](https://github.com/Animesh197/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Animesh197/leetcode_solutions/tree/master/0846-hand-of-straights) |
 | [0870-advantage-shuffle](https://github.com/Animesh197/leetcode_solutions/tree/master/0870-advantage-shuffle) |
@@ -293,6 +294,7 @@
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0648-replace-words](https://github.com/Animesh197/leetcode_solutions/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [0806-number-of-lines-to-write-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0831-masking-personal-information](https://github.com/Animesh197/leetcode_solutions/tree/master/0831-masking-personal-information) |
 | [0856-score-of-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Animesh197/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
