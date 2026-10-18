@@ -75,6 +75,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Animesh197/leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Animesh197/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1686-stone-game-vi](https://github.com/Animesh197/leetcode_solutions/tree/master/1686-stone-game-vi) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Animesh197/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -171,6 +172,7 @@
 | [0200-number-of-islands](https://github.com/Animesh197/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Animesh197/leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Animesh197/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -238,6 +240,7 @@
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Animesh197/leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1824-minimum-sideway-jumps](https://github.com/Animesh197/leetcode_solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1872-stone-game-viii](https://github.com/Animesh197/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Animesh197/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -463,6 +466,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Animesh197/leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Animesh197/leetcode_solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Animesh197/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -495,6 +499,7 @@
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Animesh197/leetcode_solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1686-stone-game-vi](https://github.com/Animesh197/leetcode_solutions/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/Animesh197/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1927-sum-game) |
@@ -615,6 +620,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Animesh197/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -677,6 +683,7 @@
 | [0140-word-break-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
 | ------- |
@@ -704,6 +711,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Animesh197/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -714,6 +722,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Animesh197/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -839,6 +848,7 @@
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -874,4 +884,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
