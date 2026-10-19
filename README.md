@@ -59,6 +59,7 @@
 | [0939-minimum-area-rectangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Animesh197/leetcode_solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Animesh197/leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1052-grumpy-bookstore-owner](https://github.com/Animesh197/leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Animesh197/leetcode_solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1187-make-array-strictly-increasing](https://github.com/Animesh197/leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Animesh197/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -231,6 +233,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1025-divisor-game) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Animesh197/leetcode_solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Animesh197/leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -370,6 +373,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0963-minimum-area-rectangle-ii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Animesh197/leetcode_solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
