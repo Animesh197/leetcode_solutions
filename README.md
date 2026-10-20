@@ -230,6 +230,7 @@
 | [0553-optimal-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0553-optimal-division) |
 | [0638-shopping-offers](https://github.com/Animesh197/leetcode_solutions/tree/master/0638-shopping-offers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0799-champagne-tower](https://github.com/Animesh197/leetcode_solutions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
