@@ -130,6 +130,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Animesh197/leetcode_solutions/tree/master/3905-multi-source-flood-fill) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Animesh197/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
