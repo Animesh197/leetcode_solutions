@@ -500,6 +500,7 @@
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Animesh197/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/Animesh197/leetcode_solutions/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Animesh197/leetcode_solutions/tree/master/0313-super-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Animesh197/leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
@@ -722,6 +723,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Animesh197/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1025-divisor-game) |
@@ -786,6 +788,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Animesh197/leetcode_solutions/tree/master/1872-stone-game-viii) |
@@ -800,6 +803,7 @@
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Animesh197/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -898,10 +902,12 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1025-divisor-game) |
 ## Binary Indexed Tree
 |  |
