@@ -15,6 +15,7 @@
 | [0221-maximal-square](https://github.com/Animesh197/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Animesh197/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Animesh197/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0313-super-ugly-number](https://github.com/Animesh197/leetcode_solutions/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Animesh197/leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -590,6 +591,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Animesh197/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Animesh197/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Animesh197/leetcode_solutions/tree/master/0724-find-pivot-index) |
