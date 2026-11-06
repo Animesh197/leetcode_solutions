@@ -48,6 +48,7 @@
 | [0667-beautiful-arrangement-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/Animesh197/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0789-escape-the-ghosts](https://github.com/Animesh197/leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [0806-number-of-lines-to-write-string](https://github.com/Animesh197/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -589,6 +590,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Animesh197/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Animesh197/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Animesh197/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
