@@ -255,6 +255,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0799-champagne-tower](https://github.com/Animesh197/leetcode_solutions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Animesh197/leetcode_solutions/tree/master/0877-stone-game) |
+| [0935-knight-dialer](https://github.com/Animesh197/leetcode_solutions/tree/master/0935-knight-dialer) |
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1025-divisor-game) |
