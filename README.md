@@ -376,6 +376,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Animesh197/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/Animesh197/leetcode_solutions/tree/master/0721-accounts-merge) |
+| [0814-binary-tree-pruning](https://github.com/Animesh197/leetcode_solutions/tree/master/0814-binary-tree-pruning) |
 | [1267-count-servers-that-communicate](https://github.com/Animesh197/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -773,6 +774,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Animesh197/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0814-binary-tree-pruning](https://github.com/Animesh197/leetcode_solutions/tree/master/0814-binary-tree-pruning) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -785,6 +787,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Animesh197/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0814-binary-tree-pruning](https://github.com/Animesh197/leetcode_solutions/tree/master/0814-binary-tree-pruning) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Animesh197/leetcode_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Animesh197/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
