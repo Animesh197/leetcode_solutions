@@ -94,6 +94,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Animesh197/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Animesh197/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Animesh197/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Animesh197/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
