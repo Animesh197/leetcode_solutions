@@ -81,6 +81,7 @@
 | [1406-stone-game-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Animesh197/leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -270,6 +271,7 @@
 | [1406-stone-game-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Animesh197/leetcode_solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -551,6 +553,7 @@
 | [1406-stone-game-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Animesh197/leetcode_solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1510-stone-game-iv](https://github.com/Animesh197/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Animesh197/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1686-stone-game-vi](https://github.com/Animesh197/leetcode_solutions/tree/master/1686-stone-game-vi) |
@@ -617,6 +620,7 @@
 | [0724-find-pivot-index](https://github.com/Animesh197/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Animesh197/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Animesh197/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Animesh197/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
