@@ -278,6 +278,7 @@
 | [1824-minimum-sideway-jumps](https://github.com/Animesh197/leetcode_solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1872-stone-game-viii](https://github.com/Animesh197/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Animesh197/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Animesh197/leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Animesh197/leetcode_solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Animesh197/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -354,6 +355,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Animesh197/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Animesh197/leetcode_solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Animesh197/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Animesh197/leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Animesh197/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -506,6 +508,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesh197/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Animesh197/leetcode_solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Animesh197/leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Animesh197/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Animesh197/leetcode_solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
