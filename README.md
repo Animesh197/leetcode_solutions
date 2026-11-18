@@ -66,6 +66,7 @@
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Animesh197/leetcode_solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Animesh197/leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1048-longest-string-chain](https://github.com/Animesh197/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/Animesh197/leetcode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Animesh197/leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
@@ -264,6 +265,7 @@
 | [1024-video-stitching](https://github.com/Animesh197/leetcode_solutions/tree/master/1024-video-stitching) |
 | [1025-divisor-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Animesh197/leetcode_solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1048-longest-string-chain](https://github.com/Animesh197/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Animesh197/leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -342,6 +344,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/Animesh197/leetcode_solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/Animesh197/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Animesh197/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -417,6 +420,7 @@
 | [0939-minimum-area-rectangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Animesh197/leetcode_solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1048-longest-string-chain](https://github.com/Animesh197/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -463,6 +467,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/Animesh197/leetcode_solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/Animesh197/leetcode_solutions/tree/master/0939-minimum-area-rectangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Animesh197/leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1048-longest-string-chain](https://github.com/Animesh197/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Animesh197/leetcode_solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1288-remove-covered-intervals](https://github.com/Animesh197/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -506,6 +511,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0870-advantage-shuffle](https://github.com/Animesh197/leetcode_solutions/tree/master/0870-advantage-shuffle) |
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
+| [1048-longest-string-chain](https://github.com/Animesh197/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesh197/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Animesh197/leetcode_solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Animesh197/leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
