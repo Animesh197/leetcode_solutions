@@ -38,6 +38,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Animesh197/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Animesh197/leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/Animesh197/leetcode_solutions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Animesh197/leetcode_solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0553-optimal-division) |
@@ -156,6 +157,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/Animesh197/leetcode_solutions/tree/master/0528-random-pick-with-weight) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Animesh197/leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Animesh197/leetcode_solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -559,6 +561,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Animesh197/leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Animesh197/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0528-random-pick-with-weight](https://github.com/Animesh197/leetcode_solutions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Animesh197/leetcode_solutions/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -639,6 +642,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Animesh197/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/Animesh197/leetcode_solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Animesh197/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Animesh197/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
@@ -901,6 +905,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Animesh197/leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/0384-shuffle-an-array) |
+| [0528-random-pick-with-weight](https://github.com/Animesh197/leetcode_solutions/tree/master/0528-random-pick-with-weight) |
 ## Bucket Sort
 |  |
 | ------- |
