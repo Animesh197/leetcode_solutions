@@ -363,6 +363,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Animesh197/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Animesh197/leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Animesh197/leetcode_solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Animesh197/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Animesh197/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -529,6 +530,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Animesh197/leetcode_solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1048-longest-string-chain](https://github.com/Animesh197/leetcode_solutions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesh197/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Animesh197/leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Animesh197/leetcode_solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Animesh197/leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Animesh197/leetcode_solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -678,6 +680,7 @@
 | [1686-stone-game-vi](https://github.com/Animesh197/leetcode_solutions/tree/master/1686-stone-game-vi) |
 | [1824-minimum-sideway-jumps](https://github.com/Animesh197/leetcode_solutions/tree/master/1824-minimum-sideway-jumps) |
 | [1927-sum-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Animesh197/leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/Animesh197/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Animesh197/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Animesh197/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -767,6 +770,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Animesh197/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Animesh197/leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Animesh197/leetcode_solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -980,6 +984,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Animesh197/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Animesh197/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Animesh197/leetcode_solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Animesh197/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Brainteaser
 |  |
