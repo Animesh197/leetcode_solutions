@@ -78,6 +78,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Animesh197/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Animesh197/leetcode_solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Animesh197/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1366-rank-teams-by-votes](https://github.com/Animesh197/leetcode_solutions/tree/master/1366-rank-teams-by-votes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesh197/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Animesh197/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -575,6 +576,7 @@
 | [1025-divisor-game](https://github.com/Animesh197/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Animesh197/leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Animesh197/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Animesh197/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Animesh197/leetcode_solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -648,6 +650,7 @@
 | [0724-find-pivot-index](https://github.com/Animesh197/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [1140-stone-game-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesh197/leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Animesh197/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Animesh197/leetcode_solutions/tree/master/1872-stone-game-viii) |
@@ -847,6 +850,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Animesh197/leetcode_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0731-my-calendar-ii](https://github.com/Animesh197/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0900-rle-iterator](https://github.com/Animesh197/leetcode_solutions/tree/master/0900-rle-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -1017,4 +1021,8 @@
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/Animesh197/leetcode_solutions/tree/master/1035-uncrossed-lines) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Animesh197/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
